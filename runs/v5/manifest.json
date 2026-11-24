@@ -1,0 +1,180 @@
+{
+  "started": "2026-11-24T15:24:03+00:00",
+  "seed": 20261124,
+  "order": "CCBDDDCDABBDCABCAAAB",
+  "sdk": "10.0.302",
+  "packages": [
+    "Microsoft.Extensions.Caching.Hybrid/11.0.1",
+    "Microsoft.Extensions.Caching.Memory/11.0.0",
+    "Microsoft.Extensions.DependencyInjection/11.0.0"
+  ],
+  "machine": "Apple M2 Pro",
+  "macos": "27.2.1",
+  "build": "Release",
+  "program_sha256": "42ae61619dbb1edb6be1a32359f7cebac8588b3318bb5b7030df6b799dd43939",
+  "dll_sha256": "350127d33629d5bc6e07e72584dfeb6acc30b93bcc8ee36e4845a03f421dd7c1",
+  "prediction_sha256": "caa8c18d969660ca0f03e95ae3abd91ed0e1b4540fc8e49300eac4b036c28831",
+  "bursts": [
+    {
+      "burst": 1,
+      "condition": "C",
+      "repositoryCalls": 2,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.338125,
+      "exit": 0
+    },
+    {
+      "burst": 2,
+      "condition": "C",
+      "repositoryCalls": 2,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.81375,
+      "exit": 0
+    },
+    {
+      "burst": 3,
+      "condition": "B",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.859166,
+      "exit": 0
+    },
+    {
+      "burst": 4,
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 3.646291,
+      "exit": 0
+    },
+    {
+      "burst": 5,
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 3.3835,
+      "exit": 0
+    },
+    {
+      "burst": 6,
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 3.533292,
+      "exit": 0
+    },
+    {
+      "burst": 7,
+      "condition": "C",
+      "repositoryCalls": 2,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 6.170792,
+      "exit": 0
+    },
+    {
+      "burst": 8,
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 3.571541,
+      "exit": 0
+    },
+    {
+      "burst": 9,
+      "condition": "A",
+      "repositoryCalls": 1000,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 4.521125,
+      "exit": 0
+    },
+    {
+      "burst": 10,
+      "condition": "B",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.901958,
+      "exit": 0
+    },
+    {
+      "burst": 11,
+      "condition": "B",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 6.035875,
+      "exit": 0
+    },
+    {
+      "burst": 12,
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 3.40125,
+      "exit": 0
+    },
+    {
+      "burst": 13,
+      "condition": "C",
+      "repositoryCalls": 2,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 6.025917,
+      "exit": 0
+    },
+    {
+      "burst": 14,
+      "condition": "A",
+      "repositoryCalls": 1000,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 4.413833,
+      "exit": 0
+    },
+    {
+      "burst": 15,
+      "condition": "B",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.83625,
+      "exit": 0
+    },
+    {
+      "burst": 16,
+      "condition": "C",
+      "repositoryCalls": 2,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.628958,
+      "exit": 0
+    },
+    {
+      "burst": 17,
+      "condition": "A",
+      "repositoryCalls": 1000,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 4.650292,
+      "exit": 0
+    },
+    {
+      "burst": 18,
+      "condition": "A",
+      "repositoryCalls": 1000,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 4.379958,
+      "exit": 0
+    },
+    {
+      "burst": 19,
+      "condition": "A",
+      "repositoryCalls": 1000,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 4.682292,
+      "exit": 0
+    },
+    {
+      "burst": 20,
+      "condition": "B",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 5.956667,
+      "exit": 0
+    }
+  ],
+  "finished": "2026-11-24T15:24:07+00:00"
+}

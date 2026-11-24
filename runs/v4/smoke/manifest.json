@@ -1,0 +1,63 @@
+{
+  "started": "2026-11-24T13:26:31+00:00",
+  "smoke": true,
+  "prediction_sha256": "6e532b679f4b51a341952cbf5b19d0c67d93f1056d745673d86fab53d7b79545",
+  "program_sha256": "42ae61619dbb1edb6be1a32359f7cebac8588b3318bb5b7030df6b799dd43939",
+  "bursts": [
+    {
+      "burst": 1,
+      "kind": "confirmatory",
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 0.238875,
+      "exit": 0
+    },
+    {
+      "burst": 2,
+      "kind": "confirmatory",
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 0.260334,
+      "exit": 0
+    },
+    {
+      "burst": 3,
+      "kind": "confirmatory",
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 0.225208,
+      "exit": 0
+    },
+    {
+      "burst": 4,
+      "kind": "confirmatory",
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 0.323792,
+      "exit": 0
+    },
+    {
+      "burst": 5,
+      "kind": "confirmatory",
+      "condition": "D",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 0.137083,
+      "exit": 0
+    },
+    {
+      "burst": 6,
+      "kind": "control",
+      "condition": "B",
+      "repositoryCalls": 1,
+      "distinctValues": 1,
+      "callerStartSpreadMs": 0.367833,
+      "exit": 0
+    }
+  ],
+  "finished": "2026-11-24T13:26:32+00:00"
+}

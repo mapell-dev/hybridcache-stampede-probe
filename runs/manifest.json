@@ -1,0 +1,147 @@
+{
+  "started": "2026-11-24T08:10:22+00:00",
+  "seed": 20261209,
+  "order": "AAAABBCCBBBCCCA",
+  "smoke": false,
+  "sdk": "10.0.302",
+  "packages": [
+    "Microsoft.Extensions.Caching.Hybrid/11.0.1",
+    "Microsoft.Extensions.Caching.Memory/11.0.0",
+    "Microsoft.Extensions.DependencyInjection/11.0.0"
+  ],
+  "machine": "Apple M2 Pro",
+  "macos": "27.2.1",
+  "build": "Release",
+  "prediction_sha256": "be3d1e9f426e6bd4b1308e1a0a56d740789c1c7491211cc844cc657fd592ef20",
+  "bursts": [
+    {
+      "burst": 1,
+      "kind": "confirmatory",
+      "condition": "A",
+      "delayMs": 100,
+      "repositoryCalls": 1000,
+      "exit": 0
+    },
+    {
+      "burst": 2,
+      "kind": "confirmatory",
+      "condition": "A",
+      "delayMs": 100,
+      "repositoryCalls": 1000,
+      "exit": 0
+    },
+    {
+      "burst": 3,
+      "kind": "confirmatory",
+      "condition": "A",
+      "delayMs": 100,
+      "repositoryCalls": 1000,
+      "exit": 0
+    },
+    {
+      "burst": 4,
+      "kind": "confirmatory",
+      "condition": "A",
+      "delayMs": 100,
+      "repositoryCalls": 1000,
+      "exit": 0
+    },
+    {
+      "burst": 5,
+      "kind": "confirmatory",
+      "condition": "B",
+      "delayMs": 100,
+      "repositoryCalls": 1,
+      "exit": 0
+    },
+    {
+      "burst": 6,
+      "kind": "confirmatory",
+      "condition": "B",
+      "delayMs": 100,
+      "repositoryCalls": 1,
+      "exit": 0
+    },
+    {
+      "burst": 7,
+      "kind": "confirmatory",
+      "condition": "C",
+      "delayMs": 100,
+      "repositoryCalls": 2,
+      "exit": 0
+    },
+    {
+      "burst": 8,
+      "kind": "confirmatory",
+      "condition": "C",
+      "delayMs": 100,
+      "repositoryCalls": 2,
+      "exit": 0
+    },
+    {
+      "burst": 9,
+      "kind": "confirmatory",
+      "condition": "B",
+      "delayMs": 100,
+      "repositoryCalls": 1,
+      "exit": 0
+    },
+    {
+      "burst": 10,
+      "kind": "confirmatory",
+      "condition": "B",
+      "delayMs": 100,
+      "repositoryCalls": 1,
+      "exit": 0
+    },
+    {
+      "burst": 11,
+      "kind": "confirmatory",
+      "condition": "B",
+      "delayMs": 100,
+      "repositoryCalls": 1,
+      "exit": 0
+    },
+    {
+      "burst": 12,
+      "kind": "confirmatory",
+      "condition": "C",
+      "delayMs": 100,
+      "repositoryCalls": 2,
+      "exit": 0
+    },
+    {
+      "burst": 13,
+      "kind": "confirmatory",
+      "condition": "C",
+      "delayMs": 100,
+      "repositoryCalls": 2,
+      "exit": 0
+    },
+    {
+      "burst": 14,
+      "kind": "confirmatory",
+      "condition": "C",
+      "delayMs": 100,
+      "repositoryCalls": 2,
+      "exit": 0
+    },
+    {
+      "burst": 15,
+      "kind": "confirmatory",
+      "condition": "A",
+      "delayMs": 100,
+      "repositoryCalls": 1000,
+      "exit": 0
+    },
+    {
+      "burst": 16,
+      "kind": "exploratory",
+      "condition": "A",
+      "delayMs": 1,
+      "repositoryCalls": 966,
+      "exit": 0
+    }
+  ],
+  "finished": "2026-11-24T08:10:25+00:00"
+}
